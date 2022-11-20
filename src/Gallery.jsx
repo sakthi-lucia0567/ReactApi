@@ -11,6 +11,11 @@ import { useEffect, useState } from "react";
 // console.log(`"this is api data" ${apiData}`);
 // console.log("this is Gallery");
 
+/**
+ *  ? Alternative for promises
+ * todo : instead we can useEffect
+ */
+
 const Gallery = () => {
   //const data = apiData.read();
   const [image, setImage] = useState([]);
