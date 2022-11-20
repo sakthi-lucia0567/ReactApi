@@ -2,6 +2,11 @@ import * as React from "react";
 import fetchData from "./utils/fetchData";
 import { useEffect, useState } from "react";
 
+/**
+ *  ? Alternative for promises
+ * todo : Alternative for promises
+ */
+
 // const apiData = fetchData("https://dog.ceo/api/breeds/image/random/50");
 // console.log(`"this is api data" ${apiData}`);
 // console.log("this is Gallery");
