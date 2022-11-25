@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
  * todo : Alternative for promises
  *  todo : notes
  *  todo : moments
+ * todo : Notes
  */
 
 // const apiData = fetchData("https://dog.ceo/api/breeds/image/random/50");
